@@ -1,4 +1,3 @@
-touch todo.py
 import json
 import os
 
